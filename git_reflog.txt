@@ -1,0 +1,8 @@
+226c549add HEAD@{0}: checkout: moving from master to myNewBranch
+c617db19b0 HEAD@{1}: checkout: moving from myNewBranch to master
+226c549add HEAD@{2}: commit: add "git log" to branch myNewBranch first
+c617db19b0 HEAD@{3}: checkout: moving from master to myNewBranch
+c617db19b0 HEAD@{4}: checkout: moving from myNewBranch to master
+c617db19b0 HEAD@{5}: checkout: moving from master to myNewBranch
+c617db19b0 HEAD@{6}: checkout: moving from master to master
+c617db19b0 HEAD@{7}: clone: from git@github.com:ReinRalle/vscode.git
